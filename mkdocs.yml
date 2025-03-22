@@ -1,0 +1,9 @@
+site_name: DocUnify Sample
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Project 1: docs/project1_intro.md
+  - Project 2: docs/project2_usage.md
+  - Project 3: docs/project3_api.md
